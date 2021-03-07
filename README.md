@@ -1,4 +1,4 @@
-# Mixed messages Generator
+# Mixed Messages Generator
 
 Every time a user runs this program a random joke will appear.
 
